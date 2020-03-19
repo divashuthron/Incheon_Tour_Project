@@ -1,0 +1,9 @@
+	@CHARSET "UTF-8";
+  .wrapper{
+    width:1200px;
+    margin : 0 auto;
+  }
+    .clear{clear:both;}
+div.row.text-center {width : 1200px; height : 224px;}
+
+form {margin-top : 100px; width : 600px; margin-left : 300px;margin-bottom : 30px;}

@@ -1,0 +1,13 @@
+	@CHARSET "UTF-8";
+	.wow{margin-top : 100px;margin-left : 100px;}
+    .wrapper{
+    width:1200px;
+    margin : 0 auto;
+  }
+    .clear{clear:both;}
+
+	form {margin-top : -320px; width : 300px; margin-left : 650px;margin-bottom:230px;color:white;}
+		form a:link{
+							 color : white ;
+							 text-decoration: none;
+							}

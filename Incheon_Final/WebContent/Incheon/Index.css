@@ -1,0 +1,115 @@
+	@CHARSET "UTF-8";
+	.wrapper{margin : 0 auto; }
+  		  		.clear{clear:both;}
+	    .bg-1 {
+		   	    background-image: url("IncheonTourImage/1920x1080IncheonTourBackground.jpg");
+			    width : 1920px;
+			    height: 1080px;
+			  }
+		.mainFont{
+				  font-family: "Stylish","gothic";
+				  font-size: 80px;
+				 }
+		header .container{height:70px;}
+		.nav.navbar-nav.navbar-right{
+									 font-family: 'Noto Sans KR', sans-serif;
+									 margin-top: 15px;
+									 font-size: 15px;
+									}
+		.navbar-brand{font-family:"Stylish","gothic";}
+		.thumbnail {
+					padding: 0 0 5px 0;
+					border: none;
+					border-radius: 0;
+				   }
+		kbd{background-color: green;}
+		article.gongji{margin-left: 100px;}
+		.textField{
+				   margin-left: -60px;
+				   margin-bottom: 10px;
+				  }
+		#gongjisahang{
+					  font-size: 13px;
+					  float : left;
+					  margin-left: -90px;
+					  font-size:15px;
+					 }
+		#gongjisahang li{margin-bottom: 4px;}
+		#gongjisahang a:link{
+							 color : black ;
+							 text-decoration: none;
+							}
+		#gongjisahang a:visited{
+								color : black;
+								text-decoration: none;
+							   }
+		#gongjisahang a:hover{color : black ; text-decoration: underline;}
+		#gongjisahang a:active{color : black; text-decoration: underline;}
+		li.gongjiTitle{list-style-type: none;}
+		div.carousel{
+					  width : 560px;
+					  height : 260px;
+					  float: right;
+					}
+		.radiousBox .thumbnail{width : 360px;
+		 					   height:180px;
+		                       margin-left: 150px;
+		                       padding-top: 10px;
+		                       border-radius: 10px 10px 10px 10px;
+		                      }
+		.radiousBox.thumbnail:hover{
+									opacity: 0.5;
+									color : black ;
+									}
+		.radiousBox.thumbnail a:link{
+									color : black ;
+							 		text-decoration: none;
+								   }
+		a.left.carousel-control{margin-left: -50px;}
+		a.right.carousel-control{margin-right: 50px;}
+		//ol.carousel-indicators{margin-bottom: : -220px;}
+		.bbs{margin-left: -50px;}
+		.nemo{
+			  float:left;
+			  margin-top: 20px;
+			  margin-left: 20px;
+			 }
+		.nemo div.col-sm-3{
+						   margin-left : -25px;
+						   margin-right: 20px;
+						  }
+		.radiousBox img{
+						float:left;
+						margin-left: 20px;
+						margin-top: 10px;
+					   }
+		.radiousBox .wol{
+						 margin-left: 20px;
+						 margin-top: 50px;
+						}
+		
+		div.row.text-center {
+							 width : 1200px;
+							 height : 224px;
+							}
+		.radiousBox{
+					background-color: #DCFCFC;
+					width : 1100px;
+					height : 700px;
+					border-radius: 80px 80px 80px 80px;
+					margin-bottom: 150px;
+				   }
+
+		.seasonTop{margin-left: 25px;margin-top:20px;}
+		.seasonBottom{margin-left: 10px;margin-top:20px;}
+		.eight {margin-left: -50px}
+		.nemo p{padding-top: 10px;}
+		.season{margin-left: 40px;}
+		div.thumbnail:hover{
+							opacity: 0.5;
+							color : black ;}
+		div.thumbnail a:link{
+							 color : black ;
+							 text-decoration: none;
+							}
+		.fontchange{font-family: 'Gamja Flower', cursive; color : gray;}
